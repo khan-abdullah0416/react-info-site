@@ -6,6 +6,4 @@ npm run build # or watch to rebuild on change
 open index.html
 ```
 
-# View the website
-
-https://clever-tiramisu-89c43c.netlify.app/
+[View the website](https://clever-tiramisu-89c43c.netlify.app/)
